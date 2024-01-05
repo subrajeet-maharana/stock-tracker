@@ -1,0 +1,122 @@
+[
+  {
+    "symbol": "A",
+    "refreshInterval": 3,
+    "price": 303.05488003152027,
+    "id": 1
+  },
+  {
+    "symbol": "AA",
+    "refreshInterval": 3,
+    "price": 720.2968980843982,
+    "id": 2
+  },
+  {
+    "symbol": "AAA",
+    "refreshInterval": 3,
+    "price": 587.7565608956104,
+    "id": 3
+  },
+  {
+    "symbol": "AAAIF",
+    "refreshInterval": 1,
+    "price": 233.63841598253555,
+    "id": 4
+  },
+  {
+    "symbol": "AAALY",
+    "refreshInterval": 1,
+    "price": 616.3083976651693,
+    "id": 5
+  },
+  {
+    "symbol": "AAAU",
+    "refreshInterval": 2,
+    "price": 223.0500473046315,
+    "id": 6
+  },
+  {
+    "symbol": "AABB",
+    "refreshInterval": 1,
+    "price": 328.7691999972273,
+    "id": 7
+  },
+  {
+    "symbol": "AABVF",
+    "refreshInterval": 4,
+    "price": 386.41501212231066,
+    "id": 8
+  },
+  {
+    "symbol": "AACAF",
+    "refreshInterval": 3,
+    "price": 734.4022443430558,
+    "id": 9
+  },
+  {
+    "symbol": "AACAY",
+    "refreshInterval": 4,
+    "price": 13.785942186188338,
+    "id": 10
+  },
+  {
+    "symbol": "AACG",
+    "refreshInterval": 5,
+    "price": 216.52418789891547,
+    "id": 11
+  },
+  {
+    "symbol": "AACI",
+    "refreshInterval": 1,
+    "price": 785.2628221439286,
+    "id": 12
+  },
+  {
+    "symbol": "AACIU",
+    "refreshInterval": 3,
+    "price": 617.94225887902,
+    "id": 13
+  },
+  {
+    "symbol": "AACIW",
+    "refreshInterval": 3,
+    "price": 610.7752078321842,
+    "id": 14
+  },
+  {
+    "symbol": "AACS",
+    "refreshInterval": 1,
+    "price": 512.720764227419,
+    "id": 15
+  },
+  {
+    "symbol": "AACT",
+    "refreshInterval": 4,
+    "price": 210.52016829845434,
+    "id": 16
+  },
+  {
+    "symbol": "AACT.U",
+    "refreshInterval": 3,
+    "price": 802.8086997247284,
+    "id": 17
+  },
+  {
+    "symbol": "AACT.WS",
+    "refreshInterval": 4,
+    "price": 584.0071951415273,
+    "id": 18
+  },
+  {
+    "symbol": "AACTF",
+    "refreshInterval": 1,
+    "price": 714.1010681132216,
+    "id": 19
+  },
+  {
+    "symbol": "AADI",
+    "refreshInterval": 1,
+    "price": 69.9396369339873,
+    "id": 20
+  }
+]
