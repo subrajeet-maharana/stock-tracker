@@ -1,122 +1,122 @@
 [
   {
-    "symbol": "A",
+    "symbol": "X:00USD",
     "refreshInterval": 3,
-    "price": 303.05488003152027,
+    "price": 152.1900733213921,
     "id": 1
   },
   {
-    "symbol": "AA",
+    "symbol": "X:1INCHUSD",
     "refreshInterval": 3,
-    "price": 720.2968980843982,
+    "price": 576.6397440979127,
     "id": 2
   },
   {
-    "symbol": "AAA",
+    "symbol": "X:A8USD",
     "refreshInterval": 3,
-    "price": 587.7565608956104,
+    "price": 219.565218951997,
     "id": 3
   },
   {
-    "symbol": "AAAIF",
-    "refreshInterval": 1,
-    "price": 233.63841598253555,
+    "symbol": "X:AAVEUSD",
+    "refreshInterval": 5,
+    "price": 783.0645310995943,
     "id": 4
   },
   {
-    "symbol": "AAALY",
-    "refreshInterval": 1,
-    "price": 616.3083976651693,
+    "symbol": "X:ABTUSD",
+    "refreshInterval": 2,
+    "price": 486.5775764113125,
     "id": 5
   },
   {
-    "symbol": "AAAU",
+    "symbol": "X:ACAUSD",
     "refreshInterval": 2,
-    "price": 223.0500473046315,
+    "price": 93.87703842136052,
     "id": 6
   },
   {
-    "symbol": "AABB",
-    "refreshInterval": 1,
-    "price": 328.7691999972273,
+    "symbol": "X:ACHUSD",
+    "refreshInterval": 4,
+    "price": 26.785657863604094,
     "id": 7
   },
   {
-    "symbol": "AABVF",
+    "symbol": "X:ACSUSD",
     "refreshInterval": 4,
-    "price": 386.41501212231066,
+    "price": 78.96507293525357,
     "id": 8
   },
   {
-    "symbol": "AACAF",
-    "refreshInterval": 3,
-    "price": 734.4022443430558,
+    "symbol": "X:ACXUSD",
+    "refreshInterval": 1,
+    "price": 482.36899523342515,
     "id": 9
   },
   {
-    "symbol": "AACAY",
-    "refreshInterval": 4,
-    "price": 13.785942186188338,
+    "symbol": "X:ADAUSD",
+    "refreshInterval": 3,
+    "price": 163.0765530077549,
     "id": 10
   },
   {
-    "symbol": "AACG",
+    "symbol": "X:ADXUSD",
     "refreshInterval": 5,
-    "price": 216.52418789891547,
+    "price": 34.4592752254691,
     "id": 11
   },
   {
-    "symbol": "AACI",
+    "symbol": "X:AERGOUSD",
     "refreshInterval": 1,
-    "price": 785.2628221439286,
+    "price": 851.1283363016806,
     "id": 12
   },
   {
-    "symbol": "AACIU",
-    "refreshInterval": 3,
-    "price": 617.94225887902,
+    "symbol": "X:AEROUSD",
+    "refreshInterval": 4,
+    "price": 588.5010099040171,
     "id": 13
   },
   {
-    "symbol": "AACIW",
-    "refreshInterval": 3,
-    "price": 610.7752078321842,
+    "symbol": "X:AEVOUSD",
+    "refreshInterval": 4,
+    "price": 994.9918622085477,
     "id": 14
   },
   {
-    "symbol": "AACS",
-    "refreshInterval": 1,
-    "price": 512.720764227419,
+    "symbol": "X:AGLDUSD",
+    "refreshInterval": 2,
+    "price": 999.8993388846525,
     "id": 15
   },
   {
-    "symbol": "AACT",
-    "refreshInterval": 4,
-    "price": 210.52016829845434,
+    "symbol": "X:AIOZUSD",
+    "refreshInterval": 3,
+    "price": 238.6784834464397,
     "id": 16
   },
   {
-    "symbol": "AACT.U",
-    "refreshInterval": 3,
-    "price": 802.8086997247284,
+    "symbol": "X:AIRUSD",
+    "refreshInterval": 4,
+    "price": 291.8506303498647,
     "id": 17
   },
   {
-    "symbol": "AACT.WS",
+    "symbol": "X:AKTEUR",
     "refreshInterval": 4,
-    "price": 584.0071951415273,
+    "price": 902.6741463334072,
     "id": 18
   },
   {
-    "symbol": "AACTF",
-    "refreshInterval": 1,
-    "price": 714.1010681132216,
+    "symbol": "X:ALBTUSD",
+    "refreshInterval": 4,
+    "price": 867.7568973618593,
     "id": 19
   },
   {
-    "symbol": "AADI",
-    "refreshInterval": 1,
-    "price": 69.9396369339873,
+    "symbol": "X:ALCXUSD",
+    "refreshInterval": 2,
+    "price": 415.1372106107785,
     "id": 20
   }
 ]
